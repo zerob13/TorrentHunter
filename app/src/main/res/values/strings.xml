@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TorrentHunter</string>
+
+    <string name="title_section1">Btdigg</string>
+    <string name="title_section2">Kickass</string>
+    <string name="title_section3">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Need for speed</string>
+    <string name="link_copied">Link copied</string>
+</resources>
